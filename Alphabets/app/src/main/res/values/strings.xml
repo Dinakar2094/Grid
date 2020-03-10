@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alphabets</string>
+    <string name="click_ok">Ok</string>
+    <string name="text">Select Language</string>
+
+    <!--Drop down for selecting languages-->
+    <string-array name="select_language">
+        <item>English</item>
+        <item>Telugu</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+    </string-array>
+
+</resources>
